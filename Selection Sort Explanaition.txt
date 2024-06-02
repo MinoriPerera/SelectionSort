@@ -1,0 +1,13 @@
+Selection sort
+Explanation:
+selectionSort method: This method implements the Selection Sort algorithm.
+
+It iterates through the array, finds the smallest element in the unsorted portion, 
+and swaps it with the current element.
+
+main method: This method is the entry point of the program. 
+It creates an example array, calls the selectionSort method to sort the array, 
+and prints the sorted array.
+
+output:
+Sorted array: 11 12 22 25 64
